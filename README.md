@@ -1,2 +1,2 @@
-# C.Sharp.Decimal.to.Binary
+# C Sharp Decimal to Binary
 C# decimal to binary converter
